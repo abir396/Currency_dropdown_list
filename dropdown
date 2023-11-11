@@ -1,4 +1,5 @@
 <select name="currency" id="currency">
+  <option value="INR" label="Indian rupee">INR</option>
   <option value="BDT" label="Bangladeshi taka">BDT</option>
   <option value="AED" label="United Arab Emirates dirham">AED</option>
   <option value="AFN" label="Afghan afghani">AFN</option>
@@ -62,7 +63,6 @@
   <option value="IDR" label="Indonesian rupiah">IDR</option>
   <option value="ILS" label="Israeli new shekel">ILS</option>
   <option value="IMP" label="Manx pound">IMP</option>
-  <option value="INR" label="Indian rupee">INR</option>
   <option value="IQD" label="Iraqi dinar">IQD</option>
   <option value="IRR" label="Iranian rial">IRR</option>
   <option value="ISK" label="Icelandic króna">ISK</option>
